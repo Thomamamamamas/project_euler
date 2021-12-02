@@ -17,10 +17,8 @@ int	Sum_multiple_3_or_5(int limit)
 	return (res);
 }
 
-/*
 int	main()
 {
 	printf("%d\n", Sum_multiple_3_or_5(1000));
 	return (0);
 }
-*/
